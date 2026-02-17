@@ -33,10 +33,10 @@ const Footer = () => {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-2">
             <div className="w-10 h-10 rounded-full gradient-gold flex items-center justify-center">
-              <span className="font-heading text-sm font-bold text-primary-foreground">RE</span>
+              <span className="font-heading text-sm font-bold text-primary-foreground">PE</span>
             </div>
             <div>
-              <h3 className="font-heading text-2xl font-bold text-gold">REL EVENT</h3>
+              <h3 className="font-heading text-2xl font-bold text-gold">Pinnacle Events</h3>
             </div>
           </div>
           <p className="text-gold-light text-xs italic font-body mt-1">Our Business is making Memories</p>
@@ -72,7 +72,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center gap-3">
             <Mail size={16} className="text-gold flex-shrink-0" />
-            <a href="mailto:contact@relevent.in" className="text-warm-gray text-sm font-body hover:text-gold transition-colors">contact@relevent.in</a>
+            <a href="mailto:contact@relevent.in" className="text-warm-gray text-sm font-body hover:text-gold transition-colors">contact@pinnacleevents.in</a>
           </div>
         </div>
 
@@ -95,7 +95,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gold/10 pt-5 text-center">
           <p className="text-warm-gray text-xs font-body">
-            © 2025 Rel Event. All rights reserved.
+            © 2025 Pinnacle Events. All rights reserved.
           </p>
           <p className="text-warm-gray/60 text-[10px] font-body mt-1">
             Designed by Akshay Sonarghare
